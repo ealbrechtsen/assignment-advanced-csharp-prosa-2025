@@ -1,3 +1,3 @@
 # prosa-csharp-advanced-assignment-2025
 
-This repository contains my assignment from the **"Advanced C#"** course offered by PROSA. This course builds upon the **"Basic C#"** course and focuses on modern software development techniques using C#.  
+(Once finished it will contain an...) Approved solution for the final assignment in the **"Advanced C#"** course by PROSA, taught by Michell Cronberg. Demonstrates advanced C# development skills, including software architecture, REST API development, unit testing, and database management with Entity Framework Core.  
