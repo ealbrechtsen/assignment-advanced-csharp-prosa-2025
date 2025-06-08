@@ -19,7 +19,7 @@ The course focused on modern software architecture and development practices in 
 - **Testing**: xUnit  
 
 For more details on the course, visit the official materials:  
-[https://mcronberg.github.io/bogenomcsharp/diverse/prosacs2024/index.html](https://mcronberg.github.io/bogenomcsharp/diverse/prosacs2024/index.html)
+[https://mcronberg.github.io/bogenomcsharp/diverse/prosacsudv2025/](https://mcronberg.github.io/bogenomcsharp/diverse/prosacsudv2025/)
 
 ## How to Run  
 1. Install [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) if not already installed.  
