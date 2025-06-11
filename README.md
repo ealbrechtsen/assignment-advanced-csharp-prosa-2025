@@ -1,6 +1,6 @@
 # Customer - Assignment
 
-This repository contains the approved solution for the **"ProsaOpg"** assignment submitted as part of the **"Advanced C#"** course offered by PROSA in Spring 2025. The project demonstrates layered architecture, test-driven development, and REST API fundamentals, developed as part of a six-hour course led by Michell Cronberg.
+This repository contains the approved solution for the **"ProsaOpg"** assignment submitted as part of the **"C# Advanced"** course offered by PROSA in Spring 2025. The project demonstrates layered architecture, test-driven development, and REST API fundamentals, developed as part of a six-hour course led by Michell Cronberg.
 
 ## Course Overview  
 The course focused on modern software architecture and development practices in C#, including:  
